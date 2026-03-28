@@ -1,4 +1,5 @@
 Phishing is a type of cybercrime where attackers trick people into revealing sensitive information such as passwords, bank details, or personal data. It usually happens through fake emails, messages, or websites that look legitimate but are designed to steal information.
+
 A realistic scenario involves a group of college students receiving an email that appears to come from their university’s IT department. The email warns them that their accounts will be suspended unless they “verify” their login details immediately. The message includes a link to a website that looks almost identical to the official university portal. Step by step, the crime unfolds:
 1. 	The attacker sends a convincing email with urgent language.
 2. 	The student clicks the link, believing it is genuine.
