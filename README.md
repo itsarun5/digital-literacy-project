@@ -20,8 +20,8 @@ Wrote a case study on phishing, created a prevention checklist with UPI safety t
 # Useful Links
 National cyber crime portal  
 Helpline - 1930
-- My GitHub Profile - 
-- My LinkedIn Profile -
-- My Kaggle Profile -
+- My GitHub Profile - https://github.com/itsarun5
+- My LinkedIn Profile - https://www.linkedin.com/in/arun-kumar-498b55360/
+- My Kaggle Profile - https://www.kaggle.com/itsarun5
 
 
