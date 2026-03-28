@@ -2,10 +2,10 @@
 Name - Arun Kumar
 Registeration Number - 25BCE11009
 
-#Project Overview
+# Project Overview
 This repository contains my coursework and practical tasks as part of the Student Digital Ambassador initiative. The goal of the project is to promote digital literacy, safe online practices, and professional communication among college students. Each task focuses on building awareness, applying digital tools, and creating resources that can be shared with peers.
 
-#Module Summaries
+# Module Summaries
 - Task 1 – Presentation
 Designed an infographic on Digital Literacy using Canva. Covers topics like safe internet practices, useful digital tools, and professional online presence.
 - Task 2 – Portfolio Setup
