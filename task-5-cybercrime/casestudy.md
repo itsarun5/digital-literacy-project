@@ -6,5 +6,6 @@ A realistic scenario involves a group of college students receiving an email tha
 3. 	The fake site asks for usernames and passwords.
 4. 	Once entered, the attacker collects the data.
 5. 	The stolen credentials are then used to access student accounts or financial information.
+
 Students are often targeted because they may not be fully aware of online threats and tend to trust official‑looking emails. The consequences can be serious: loss of personal data, unauthorized access to academic records, or even financial fraud if linked accounts are compromised. Beyond individual harm, phishing can also damage the reputation of institutions when attackers misuse stolen accounts. 
 This case highlights why awareness and safe internet practices are essential for protecting oneself against cybercrime.
