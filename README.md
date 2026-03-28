@@ -1,5 +1,5 @@
 # digital-literacy-project
-Name - Arun Kumar
+Name - Arun Kumar  
 Registeration Number - 25BCE11009
 
 # Project Overview
